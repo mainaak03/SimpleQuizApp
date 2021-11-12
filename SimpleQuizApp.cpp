@@ -61,7 +61,7 @@ int main() {
     askQuestion(q3, ptr);
     askQuestion(q4, ptr);
     askQuestion(q5, ptr);
-    cout << "points : " <<points <<endl;
+    cout <<"**************" <<endl <<"points : " <<points <<endl <<"**************" <<endl;
     
     system("pause");
 }
